@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FullSession is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fullsession.io/
+FullSession provides a comprehensive session replay and analytics platform that helps businesses understand user behavior across web and mobile applications. Leveraging AI-driven insights, FullSession captures detailed session data, heatmaps, funnel analysis, and real‑time feedback to improve conversion rates and product experience. The platform includes a managed cloud‑based MCP server, integrations with major tools, and robust security and compliance features for enterprise customers.
+
+**Areas:** Analytics · Session Replay · AI · Web · Mobile
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fullsession.io/)
+- [Documentation](https://docs.fullsession.io/)
+- [Getting started](https://docs.fullsession.io/getting-started)
+- [API reference](https://docs.fullsession.io/api-developer-tools)
+- [Pricing](https://www.fullsession.io/pricing)
+- [Support](https://www.fullsession.io/contact)
+- [Blog](https://www.fullsession.io/blog)
+- [Terms of service](https://www.fullsession.io/terms-of-use)
+- [Privacy policy](https://www.fullsession.io/security-dpa)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fullsession/](https://apis.io/providers/fullsession/).
